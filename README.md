@@ -12,7 +12,7 @@ Usage
 
  * Download the pre-built binaries (link above) or build the project with MSBuild
  * Download [OpenSSL](https://www.openssl.org/) (e.g. from [indy.fulgan.com](https://indy.fulgan.com/SSL/)) and extract it into the project folder
- * Open a terminal (press <Win>+R and enter `cmd`)
+ * Open a terminal (press <kbd>Win</kbd>+<kbd>R</kbd> and enter `cmd`)
  * Navigate to the project folder (e.g. `cd C:\Users\Example\Downloads\codeplug-prepare`)
  * Start the tool by entering `CodeplugPrepare`
  * Execute the command involving `openssl`
