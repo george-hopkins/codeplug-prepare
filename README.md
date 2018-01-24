@@ -11,12 +11,10 @@ Usage
 -----
 
  * Download the pre-built binaries (link above) or build the project with MSBuild
- * Download [OpenSSL](https://www.openssl.org/) (e.g. from [indy.fulgan.com](https://indy.fulgan.com/SSL/)) and extract it into the project folder
  * Open a terminal (press <kbd>Win</kbd>+<kbd>R</kbd> and enter `cmd`)
  * Navigate to the project folder (e.g. `cd C:\Users\Example\Downloads\codeplug-prepare`)
  * Start the tool by entering `CodeplugPrepare`
- * Execute the command involving `openssl`
- * All done! You can now use the file `yourkey.pem` and the values of `CTB_KEY` and `CTB_IV` to [read and write codeplugs][0].
+ * All done! You can now use the file `codeplug.cfg` to [read and write codeplugs][0].
 
 
 [0]: https://github.com/george-hopkins/codeplug
